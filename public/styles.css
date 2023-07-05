@@ -1,0 +1,134 @@
+.education-item {
+    margin-bottom: 30px;
+  }
+  
+  .education-item h3 {
+    margin-bottom: 10px;
+  }
+  
+  .education-item .date {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .education-item .institution {
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .education-item .highlights {
+    margin-top: 5px;
+    padding-left: 20px;
+  }
+  
+  .education-item .highlights li {
+    margin-bottom: 5px;
+  }
+  .degree {
+    font-size: 0.8em;
+    font-weight: bold;
+  }
+  
+  .university {
+    font-size: 0.5em;
+  }
+
+  body {
+    background-image: url("background-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+  .institution-icon {
+    width: 20px; /* Adjust the width as per your preference */
+    height: 20px; /* Adjust the height as per your preference */
+  }
+  a {
+    color: #000; /* Replace with your desired link color */
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: blue; /* Replace with your desired hover color */
+  }
+  .github-icon {
+    color: #000;
+  }
+  .linkedin-icon{
+    color:blue;
+  }
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .header h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  /* Example custom styles for main content section */
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Example custom styles for footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-left {
+    float: left;
+  }
+  
+  .footer-right {
+    float: right;
+    text-align: right;
+  }
+  
+  .rights-reserved {
+    margin: 0;
+  }
+  
+  .footer-links {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-links a {
+    color: #000;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+  
+  .footer-links a:hover {
+    color: blue;
+  }
+  
+  .linkedin-icon,
+  .github-icon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  
+
+
+  
+  
+  
+  
